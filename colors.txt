@@ -12,4 +12,9 @@ teal
 space grey
 brown
 miami blue
-gold silver
+gold 
+silver
+blue
+ivory
+bronze
+blonde
