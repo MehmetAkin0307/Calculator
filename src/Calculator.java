@@ -10,8 +10,10 @@ public class Calculator {
         double result = num1 - num2;
         return result;
     }
+    // this a comment in GITHUP 1
     public static double divide(double n1,double n2){
         double result=n1/n2;
         return result;
     }
+    // this a comment in GITHUP 2
 }
