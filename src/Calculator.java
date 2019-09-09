@@ -10,8 +10,10 @@ public class Calculator {
         double result = num1 - num2;
         return result;
     }
+    // LOCAL REPO:Comment 1
     public static double divide(double n1,double n2){
         double result=n1/n2;
         return result;
     }
+    // LOCAL REPO:Comment 2
 }
